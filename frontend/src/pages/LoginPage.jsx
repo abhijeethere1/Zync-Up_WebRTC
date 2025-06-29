@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { ShipWheelIcon } from "lucide-react";
-import logo from "./logo.png";
+import logo from "./Logo.png";
 import { Link } from "react-router";
 import useLogin from "../hooks/useLogin";
 
